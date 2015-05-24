@@ -1,4 +1,4 @@
-# Getting and Cleaning Data Course Project
+## Getting and Cleaning Data Course Project
 
 The run_analysis.R performs the following
 1. Merges the training and the test sets to create one data set.
@@ -7,19 +7,19 @@ The run_analysis.R performs the following
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-## Codebook.md 
+# Codebook.md 
 The code book describes the variables, the data, and the transformations performed to clean up the data.
 
-## getdata-projectfiles-UCI HAR Dataset.zip
+# getdata-projectfiles-UCI HAR Dataset.zip
 This is the zip file that contains all the data sets.
 
-## UCI HAR Dataset
+# UCI HAR Dataset
 This sub folder contains the data files ffrom the above zip file.
 
-## mean_data_set.txt
+# mean_data_set.txt
 Independent tidy data set with the average of each variable for each activity and each subject.
 
-## run_analysis.R 
+# run_analysis.R 
 The R script will check if the zip data file is in the top level folder. If it is not in the
 top level folder, it will download the file from here:
 
