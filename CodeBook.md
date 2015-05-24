@@ -34,12 +34,12 @@ For each record in the dataset it is provided:
 ## Activity Variables
 Factor variables with activity id and description 
 
-1  WALKING
-2  WALKING_UPSTAIRS
-3  WALKING_DOWNSTAIRS
-4  SITTING
-5  STANDING
-6  LAYING
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
 
 ## Subject Variables  
 Subject ID variable (1:30)
@@ -47,72 +47,72 @@ Subject ID variable (1:30)
 ## Measurement Variables 
 The mean and standard deviation variables (-1,1)  
 
-*	"Time BodyAcc Mean X-Axis"
-*	"Time BodyAcc Mean Y-Axis"
-*	"Time BodyAcc Mean Z-Axis"
-*	"Time GravityAcc Mean X-Axis"
-*	"Time GravityAcc Mean Y-Axis"
-*	"Time GravityAcc Mean Z-Axis"
-*	"Time BodyAccJerk Mean X-Axis"
-*	"Time BodyAccJerk Mean Y-Axis"
-*	"Time BodyAccJerk Mean Z-Axis"
-*	"Time BodyGyro Mean X-Axis"
-*	"Time BodyGyro Mean Y-Axis"
-*	"Time BodyGyro Mean Z-Axis"
-*	"Time BodyGyroJerk Mean X-Axis"
-*	"Time BodyGyroJerk Mean Y-Axis"
-*	"Time BodyGyroJerk Mean Z-Axis"
-*	"Time BodyAccMag Mean"
-*	"Time GravityAccMag Mean"
-*	"Time BodyAccJerkMag Mean"
-*	"Time BodyGyroMag Mean"
-*	"Time BodyGyroJerkMag Mean"
-*	"Frequency BodyAcc Mean X-Axis"
-*	"Frequency BodyAcc Mean Y-Axis"
-*	"Frequency BodyAcc Mean Z-Axis"
-*	"Frequency BodyAccJerk Mean X-Axis"
-*	"Frequency BodyAccJerk Mean Y-Axis"
-*	"Frequency BodyAccJerk Mean Z-Axis"
-*	"Frequency BodyGyro Mean X-Axis"
-*	"Frequency BodyGyro Mean Y-Axis"
-*	"Frequency BodyGyro Mean Z-Axis"
-*	"Frequency BodyAccMag Mean"
-*	"Frequency BodyBodyAccJerkMag Mean"
-*	"Frequency BodyBodyGyroMag Mean"
-*	"Frequency BodyBodyGyroJerkMag Mean"
-*	"Time BodyAcc Std Dev X-Axis"
-*	"Time BodyAcc Std Dev Y-Axis"
-*	"Time BodyAcc Std Dev Z-Axis"
-*	"Time GravityAcc Std Dev X-Axis"
-*	"Time GravityAcc Std Dev Y-Axis"
-*	"Time GravityAcc Std Dev Z-Axis"
-*	"Time BodyAccJerk Std Dev X-Axis"
-*	"Time BodyAccJerk Std Dev Y-Axis"
-*	"Time BodyAccJerk Std Dev Z-Axis"
-*	"Time BodyGyro Std Dev X-Axis"
-*	"Time BodyGyro Std Dev Y-Axis"
-*	"Time BodyGyro Std Dev Z-Axis"
-*	"Time BodyGyroJerk Std Dev X-Axis"
-*	"Time BodyGyroJerk Std Dev Y-Axis"
-*	"Time BodyGyroJerk Std Dev Z-Axis"
-*	"Time BodyAccMag Std Dev"
-*	"Time GravityAccMag Std Dev"
-*	"Time BodyAccJerkMag Std Dev"
-*	"Time BodyGyroMag Std Dev"
-*	"Time BodyGyroJerkMag Std Dev"
-*	"Frequency BodyAcc Std Dev X-Axis"
-*	"Frequency BodyAcc Std Dev Y-Axis"
-*	"Frequency BodyAcc Std Dev Z-Axis"
-*	"Frequency BodyAccJerk Std Dev X-Axis"
-*	"Frequency BodyAccJerk Std Dev Y-Axis"
-*	"Frequency BodyAccJerk Std Dev Z-Axis"
-*	"Frequency BodyGyro Std Dev X-Axis"
-*	"Frequency BodyGyro Std Dev Y-Axis"
-*	"Frequency BodyGyro Std Dev Z-Axis"
-*	"Frequency BodyAccMag Std Dev"
-*	"Frequency BodyBodyAccJerkMag Std Dev"
-*	"Frequency BodyBodyGyroMag Std Dev"
-*	"Frequency BodyBodyGyroJerkMag Std Dev"
+*	Time BodyAcc Mean X-Axis
+*	Time BodyAcc Mean Y-Axis
+*	Time BodyAcc Mean Z-Axis
+*	Time GravityAcc Mean X-Axis
+*	Time GravityAcc Mean Y-Axis
+*	Time GravityAcc Mean Z-Axis
+*	Time BodyAccJerk Mean X-Axis
+*	Time BodyAccJerk Mean Y-Axis
+*	Time BodyAccJerk Mean Z-Axis
+*	Time BodyGyro Mean X-Axis
+*	Time BodyGyro Mean Y-Axis
+*	Time BodyGyro Mean Z-Axis
+*	Time BodyGyroJerk Mean X-Axis
+*	Time BodyGyroJerk Mean Y-Axis
+*	Time BodyGyroJerk Mean Z-Axis
+*	Time BodyAccMag Mean
+*	Time GravityAccMag Mean
+*	Time BodyAccJerkMag Mean
+*	Time BodyGyroMag Mean
+*	Time BodyGyroJerkMag Mean
+*	Frequency BodyAcc Mean X-Axis
+*	Frequency BodyAcc Mean Y-Axis
+*	Frequency BodyAcc Mean Z-Axis
+*	Frequency BodyAccJerk Mean X-Axis
+*	Frequency BodyAccJerk Mean Y-Axis
+*	Frequency BodyAccJerk Mean Z-Axis
+*	Frequency BodyGyro Mean X-Axis
+*	Frequency BodyGyro Mean Y-Axis
+*	Frequency BodyGyro Mean Z-Axis
+*	Frequency BodyAccMag Mean
+*	Frequency BodyBodyAccJerkMag Mean
+*	Frequency BodyBodyGyroMag Mean
+*	Frequency BodyBodyGyroJerkMag Mean
+*	Time BodyAcc Std Dev X-Axis
+*	Time BodyAcc Std Dev Y-Axis
+*	Time BodyAcc Std Dev Z-Axis
+*	Time GravityAcc Std Dev X-Axis
+*	Time GravityAcc Std Dev Y-Axis
+*	Time GravityAcc Std Dev Z-Axis
+*	Time BodyAccJerk Std Dev X-Axis
+*	Time BodyAccJerk Std Dev Y-Axis
+*	Time BodyAccJerk Std Dev Z-Axis
+*	Time BodyGyro Std Dev X-Axis
+*	Time BodyGyro Std Dev Y-Axis
+*	Time BodyGyro Std Dev Z-Axis
+*	Time BodyGyroJerk Std Dev X-Axis
+*	Time BodyGyroJerk Std Dev Y-Axis
+*	Time BodyGyroJerk Std Dev Z-Axis
+*	Time BodyAccMag Std Dev
+*	Time GravityAccMag Std Dev
+*	Time BodyAccJerkMag Std Dev
+*	Time BodyGyroMag Std Dev
+*	Time BodyGyroJerkMag Std Dev
+*	Frequency BodyAcc Std Dev X-Axis
+*	Frequency BodyAcc Std Dev Y-Axis
+*	Frequency BodyAcc Std Dev Z-Axis
+*	Frequency BodyAccJerk Std Dev X-Axis
+*	Frequency BodyAccJerk Std Dev Y-Axis
+*	Frequency BodyAccJerk Std Dev Z-Axis
+*	Frequency BodyGyro Std Dev X-Axis
+*	Frequency BodyGyro Std Dev Y-Axis
+*	Frequency BodyGyro Std Dev Z-Axis
+*	Frequency BodyAccMag Std Dev
+*	Frequency BodyBodyAccJerkMag Std Dev
+*	Frequency BodyBodyGyroMag Std Dev
+*	Frequency BodyBodyGyroJerkMag Std Dev
 	
 ## Tidy Data Set
 The tidy data set has 30 subjects and 6 activites. This yields 180 observations of the average for each 
